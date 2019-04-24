@@ -5,6 +5,7 @@ Burger builder for ordering custom burgers at any Burger Store. <br/>
 <ul>
   <li> Fast and simple interface. </li>
   <li> Firebase connected. </li>
+  <li> Fit for mobile devices. </li>
    <li> Under construction. More to come.</li>
 </ul>
 
