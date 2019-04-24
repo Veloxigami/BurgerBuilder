@@ -10,9 +10,9 @@ Burger builder for ordering custom burgers at any Burger Store. <br/>
 
 <h2> Current Version </h2>
 <div align="center" style="display: inline">
-  <img height="500px" src="https://github.com/Veloxigami/BurgerBuilder/blob/master/app/src/ss1.png"/>
-  <img height="500px" src="https://github.com/Veloxigami/BurgerBuilder/blob/master/app/src/ss2.png"/>
-  <img height="500px" src="https://github.com/Veloxigami/BurgerBuilder/blob/master/app/src/ss3.png"/>
+  <img height="500px" src="https://github.com/Veloxigami/BurgerBuilder/blob/master/app/images/ss1.png"/>
+  <img height="500px" src="https://github.com/Veloxigami/BurgerBuilder/blob/master/app/images/ss2.png"/>
+  <img height="500px" src="https://github.com/Veloxigami/BurgerBuilder/blob/master/app/images/ss3.png"/>
 </div>
 
 
